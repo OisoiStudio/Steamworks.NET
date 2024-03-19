@@ -12,7 +12,7 @@
     "overrideReferences": true,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": [],
+    "defineConstraints": ["STEAM"],
     "versionDefines": [],
     "noEngineReferences": false
 }
